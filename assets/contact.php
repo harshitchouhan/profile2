@@ -37,8 +37,8 @@
         <header class="section-header">
           <div class="section__inner">
             <div class="logo">
-              <a class="logo-front" href="/">Harshit Chouhan</a>
-              <a class="logo-back" href="/">Back to Home</a>
+              <a class="logo-front" href="https://harshitchouhan.github.io/profile2/index.html">Harshit Chouhan</a>
+              <a class="logo-back" href="https://harshitchouhan.github.io/profile2/index.html">Back to Home</a>
             </div>
             <div class="main-menu">
               <ul>
